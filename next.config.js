@@ -3,7 +3,7 @@ const nextConfig = {
   reactStrictMode: true,
   swcMinify: true,
   trailingSlash: true,
-  basePath: '/git-tests',
+  basePath: '/git-test1',
 }
 
 module.exports = nextConfig
