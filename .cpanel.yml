@@ -1,6 +1,6 @@
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/contab/git-tests/
+    - export DEPLOYPATH=/home/contab/public_html/git-tests/
     - /bin/cp -R .vscode $DEPLOYPATH
     - /bin/cp -R assets $DEPLOYPATH
     - /bin/cp -R css $DEPLOYPATH
